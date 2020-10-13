@@ -1,5 +1,5 @@
 # pl13ti3c
-# Project title
+# Własne repozytorium kodów
  
 This project simply solves `this` problem.
  
@@ -14,34 +14,34 @@ $object = new Class(1, 2, 3)
 $object->makeAwesome($data);
 ```
  
-## Documentation
+## Dokumentacja
  
-To find out how to use this library follow [Documentation](http://link-to-documentation).
+Moja dokumentacja dotycząca pracy w domu z zajęć "Projektowanie i systemy baz danych".
  
-## Installation
+## Instalacja
  
-You can install it with Composer:
+ Instalacja została wykonana na zajęciach.
  
 ```
 composer require vendor/project
+https://github.com/tidas022/pl13ti3c
 ```
  
-## Features
+## Cel i Funkcje
  
-* Can make this and this
-* Helps with some other problew
-* Is awesome
+* zbiór elementów pracy w domu
+* możliwość pomocy kolegów z zespołu projektowego
+* nadzór kierownika projektu 
+
+## Wkład projektowy
  
-## Contribute
+* Główny nadzór: https://github.com/Michal3456
+* Kod projektu: https://github.com/tidas022
  
-* Issue Tracker: github.com/vendor/project/issues
-* Source Code: github.com/vendor/project
-* Tests: phpunit
+## Licencja
  
-## License
+Ten projekt został wygdany pod licencją MIT'a. Zobacz więcej w pliku LICENSE.
  
-This project is released under the MIT Licence. See the bundled LICENSE file for details.
+## Autor
  
-## Author
- 
-John Doe
+Paweł Ługowski
