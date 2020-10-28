@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T11:13:05.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="hhhyZGFasJ_HEa4V17TE" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T11:22:08.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="0iZAvGww1gpfIBFzCqvQ" version="13.8.5" type="github">
   <diagram id="rTpPgLSrTS0yxEHF0h6o" name="Page-1">
-    <mxGraphModel dx="1510" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1066" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="genFm4xtKhrfWZllDD31-2" value="&lt;&lt;Interface&gt;&gt;&#xa;Zarządzanie&#xa;użytkownikami" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="10" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="genFm4xtKhrfWZllDD31-3" value="+nazwa: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-2">
+        <mxCell id="genFm4xtKhrfWZllDD31-3" value="+nazwa: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-2">
           <mxGeometry y="50" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="genFm4xtKhrfWZllDD31-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-2">
