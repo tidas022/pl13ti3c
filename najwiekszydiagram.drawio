@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T11:25:33.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="bhZqhtJ8SB0fkXWQGgZ_" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T11:29:34.381Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36 Edg/86.0.622.51" etag="FK4fWF2RN8kou3Zl4xgg" version="13.8.5" type="github">
   <diagram id="rTpPgLSrTS0yxEHF0h6o" name="Page-1">
     <mxGraphModel dx="755" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,19 +52,19 @@
         <mxCell id="genFm4xtKhrfWZllDD31-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-14">
           <mxGeometry y="70" width="210" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="genFm4xtKhrfWZllDD31-17" value="+ generowanieRaportow()&#xa;+ nadzoreBibliotekarza()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-14">
+        <mxCell id="genFm4xtKhrfWZllDD31-17" value="+ generowanieRaportów()&#xa;+ nadzóreBibliotekarza()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-14">
           <mxGeometry y="78" width="210" height="42" as="geometry" />
         </mxCell>
         <mxCell id="genFm4xtKhrfWZllDD31-18" value="Konto Czytelnika" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="850" y="390" width="230" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="genFm4xtKhrfWZllDD31-19" value="+ nr.ISBN:String&#xa;+ nr.Zamowienia:String&#xa;+ tytulZasobu:String&#xa;+ autorZasobu:String&#xa;+ dataZamowienia:Date&#xa;+ formaZaplaty:String&#xa;+ statusZaplaty:String&#xa;+ wydawca:String&#xa;+ cenaZasobu:String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-18">
+        <mxCell id="genFm4xtKhrfWZllDD31-19" value="+ nr.ISBN:String&#xa;+ nr.Zamówienia:String&#xa;+ tytułZasobu:String&#xa;+ autorZasobu:String&#xa;+ dataZamówienia:Date&#xa;+ formaZapłaty:String&#xa;+ statusZapłaty:String&#xa;+ wydawca:String&#xa;+ cenaZasobu:String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-18">
           <mxGeometry y="26" width="230" height="144" as="geometry" />
         </mxCell>
         <mxCell id="genFm4xtKhrfWZllDD31-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-18">
           <mxGeometry y="170" width="230" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="genFm4xtKhrfWZllDD31-21" value="+ przegladanieZasobow()&#xa;+ wyszukiwanieZasobow()&#xa;+ rezerwowanieZasobow()&#xa;+ wypozyczanieZasobow()&#xa;+ oplataZaZasob()&#xa;+ edycjaSwoichDanych()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-18">
+        <mxCell id="genFm4xtKhrfWZllDD31-21" value="+ przegladanieZasobów()&#xa;+ wyszukiwanieZasobów()&#xa;+ rezerwowanieZasobów()&#xa;+ wypożyczanieZasobów()&#xa;+ opłataZaZasób()&#xa;+ edycjaSwoichDanych()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-18">
           <mxGeometry y="178" width="230" height="122" as="geometry" />
         </mxCell>
         <mxCell id="genFm4xtKhrfWZllDD31-22" value="E-bibliotekarz" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
@@ -106,13 +106,13 @@
         <mxCell id="genFm4xtKhrfWZllDD31-34" value="KontoPracownika" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="500" width="160" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="genFm4xtKhrfWZllDD31-35" value="+ nr.Zasobu:String&#xa;+ tytulZasobu:String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-34">
+        <mxCell id="genFm4xtKhrfWZllDD31-35" value="+ nr.Zasobu:String&#xa;+ tytułZasobu:String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-34">
           <mxGeometry y="26" width="160" height="44" as="geometry" />
         </mxCell>
         <mxCell id="genFm4xtKhrfWZllDD31-36" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-34">
           <mxGeometry y="70" width="160" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="genFm4xtKhrfWZllDD31-37" value="+ dodawanieZasobow()&#xa;+ usuwanieZasobow()&#xa;+ wydawanieZasobow()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-34">
+        <mxCell id="genFm4xtKhrfWZllDD31-37" value="+ dodawanieZasobów()&#xa;+ usuwanieZasobów()&#xa;+ wydawanieZasobów()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="genFm4xtKhrfWZllDD31-34">
           <mxGeometry y="78" width="160" height="92" as="geometry" />
         </mxCell>
         <mxCell id="genFm4xtKhrfWZllDD31-40" value="" style="edgeStyle=none;html=1;endSize=12;endArrow=block;endFill=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="genFm4xtKhrfWZllDD31-10" target="genFm4xtKhrfWZllDD31-2">
